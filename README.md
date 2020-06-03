@@ -1,9 +1,9 @@
-# phone_book
+# Phonebook
 
-This is a python program For a phonebook model
+This is a python program for a phonebook model
 
- FEATURES:
- 1)Connected to a database.
- 2)We can add and remove values in the database.
- 3)There is a search function.
- 4)there is a delete function.
+## FEATURES:
+- Connected to a database.
+- We can add and remove values in the database.
+- There is a search function.
+- there is a delete function.
